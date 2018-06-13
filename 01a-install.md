@@ -59,7 +59,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+### Python 3.5.3 :: Anaconda custom (x86_64)
 
  
 
