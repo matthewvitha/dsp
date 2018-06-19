@@ -81,8 +81,15 @@ not sure
 
 ### Q3.  More List Files in Unix  
 
-Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
+""""
 
+ls -R
+ls -1
+ls -t
+ls -x
+ls -c 
+
+"""
 ---
 
 ### Q4.  Xargs   
