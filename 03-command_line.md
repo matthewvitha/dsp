@@ -51,7 +51,31 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+"""
+ls: l
+ist current contents of directory 
+
+ls -a: 
+list all files including hidden file starting with '.'
+
+
+ls -l: 
+list with long format - show permissions
+
+
+ls -lh: 
+list long format with with human readable format
+
+ls -lah: 
+long list format showing hidden files in human readable format  
+
+ls -t: 
+ lists the files in order of the time when they were last modified (newest first) rather than in alphabetical order.
+
+ls -Glp: 
+not sure
+
+"""
 
 ---
 
