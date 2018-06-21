@@ -96,7 +96,7 @@ ls -c
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+### The X args command takes input from stdin and executes command over the input. An example of how to use it is with the "find" and "grep" command to identify a certain type of file in a directory, and then identify a specified string amongst those files in the directory. 
 
  
 
